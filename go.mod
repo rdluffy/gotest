@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/rdluffy/gotest
 
 go 1.18
 
