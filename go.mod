@@ -1,6 +1,6 @@
 module github.com/rdluffy/gotest
 
-go 1.18
+go 1.14
 
 require (
 	//	github.com/prometheus/client_golang latest

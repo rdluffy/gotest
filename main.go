@@ -1,6 +1,6 @@
-package github.com/rdluffy/gotest
+package gotest
 
 
-func GetVersion() int{
-	return 1;
+func GetVersion() string{
+	return "1"
 }
